@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+*.exe
+*.pdb
+*.dll
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Databases are created by database/setup.bat, never committed
+*.accdb
+*.mdb
+*.laccdb
+*.ldb
